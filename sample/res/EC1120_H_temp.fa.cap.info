@@ -1,0 +1,25 @@
+No file of constraints (.con) is found.
+Pair of identical reads: ST-E00142:35:H04DDALXX:3:2214:16824:66286 and ST-E00142:35:H04DDALXX:4:1104:15849:25640
+Number of overlaps saved: 105
+ComputeOverlap done
+IdentifyChimeras done
+Number of overlaps removed: 0
+RemovePoorOverlaps done
+ASSEM done
+ComputDistForContigs done
+PresentLayout done
+Clip ST-E00142:35:H04DDALXX:7:1106:31409:9378 left clip: 2, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:6:1124:9871:67850 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:2:1211:32272:52854 left clip: 3, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:6:2212:17230:2117 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:3:2214:16824:66286 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:4:1104:15849:25640 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:2:1224:7475:29842 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:8:1215:10114:12964 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:5:1224:11525:29754 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:1:2215:4349:72984 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:1:1109:32576:27117 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:6:2108:12175:30738 left clip: 1, right clip: 150,  length: 150,  right size 0
+Clip ST-E00142:35:H04DDALXX:1:2103:9647:8147 left clip: 1, right clip: 149,  length: 150,  right size 1
+Clip ST-E00142:35:H04DDALXX:5:1110:16001:60361 left clip: 1, right clip: 143,  length: 150,  right size 7
+Clip ST-E00142:35:H04DDALXX:2:2214:7689:26906 left clip: 1, right clip: 148,  length: 150,  right size 2
